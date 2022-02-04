@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alex_Beausoleil_Portfolio_v2",
-    "currentPage": "page2.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -601,11 +601,12 @@
         }
       ]
     },
-    "page1.html": {
+    "redaction.html": {
       "settings": {
-        "meta_descr": "Web Page Maker Description",
+        "meta_descr": "Article, scénario, blogue, communiqué de presse : découvrez une sélection de mes contrats de rédaction.",
         "title": "Rédaction",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/vero-photoart-eaw76b9vxly-unsplash-1023x682.jpg"
       },
       "components": [
         {
@@ -1638,11 +1639,12 @@
         }
       ]
     },
-    "page2.html": {
+    "balados.html": {
       "settings": {
-        "meta_descr": "Web Site Creator Description",
+        "meta_descr": "Que ce soit pour les grandes ou les petites oreilles, je prête ma plume (avec grand plaisir!) à plusieurs contenus audio formidables. ",
         "title": "Balados",
-        "order": 2
+        "order": 2,
+        "meta_image": "@PROJECT_PATH@/assets/images/padraig-treanor-4pc6nvqvhhm-unsplash-1023x818.jpeg"
       },
       "components": [
         {
@@ -2295,11 +2297,12 @@
         }
       ]
     },
-    "page3.html": {
+    "realisation.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Découvrez quelques-uns de mes projets de réalisation vidéo.",
         "title": "Réalisation",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/markus-spiske-i6sach0iode-unsplash-1023x682.jpg"
       },
       "components": [
         {
@@ -2854,11 +2857,12 @@
         }
       ]
     },
-    "page4.html": {
+    "contact.html": {
       "settings": {
-        "meta_descr": "Site Creator Description",
+        "meta_descr": "À l'écrit, à l'audio ou en vidéo : n'hésitez pas à me contacter pour un coup de main!",
         "title": "Contact",
-        "order": 4
+        "order": 4,
+        "meta_image": "@PROJECT_PATH@/assets/images/alex%20v2-1287x1415.jpg"
       },
       "components": [
         {
